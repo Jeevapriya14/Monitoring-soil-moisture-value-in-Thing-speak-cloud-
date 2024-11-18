@@ -1,5 +1,5 @@
-# NAME: JEEVAPRIYA R
-# REG. NO. : 212222220018
+## NAME: JEEVAPRIYA R
+## REG. NO. : 212222220018
 # Monitoring-soil-moisture-value-in-Thing-speak-cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
